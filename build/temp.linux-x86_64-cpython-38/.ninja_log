@@ -1,0 +1,13 @@
+# ninja log v5
+2	1081	1719714210349831590	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/cuda_version.o	d16d020093da4e0d
+1	6032	1719714215301837459	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	682d08bccf4291fa
+3	6485	1719714215755837998	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/nms_rotated/nms_rotated_cpu.o	354340c6e71b4532
+0	8169	1719714217438839992	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/ROIAlign/ROIAlign_cpu.o	8ec10719129af8ac
+1	8183	1719714217448840004	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	e134a59a31a0ef14
+1	9925	1719714219183842061	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	1f187ea58e7ca0de
+1	10020	1719714219286842183	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/ROIAlign/ROIAlign_cuda.o	7c9a60b6ab8526b4
+2	10517	1719714219780842768	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/deformable/deform_conv_cuda_kernel.o	cba5ea32b6ffbf7c
+2	10803	1719714220066843107	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	9a069d74b435d554
+3	15819	1719714225078849048	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/nms_rotated/nms_rotated_cuda.o	292a23f34a34e7d2
+3	16998	1719714226255850443	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/vision.o	a2896cfdc32d7c1b
+2	31016	1719714240274867059	/data/Katherine/HIFSOD/build/temp.linux-x86_64-cpython-38/data/Katherine/HIFSOD/fsdet/layers/csrc/deformable/deform_conv_cuda.o	eb8133b86f76567c
